@@ -35,6 +35,8 @@ body {
 	margin: 0;
 	padding: 10px;
 	text-align: center;
+	font-size: 120%;
+	font-weight: bold;
 }
 .nav li {
 	list-style-type: none;
